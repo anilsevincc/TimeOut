@@ -1,4 +1,4 @@
-![TimeOutdDashboard](https://github.com/user-attachments/assets/80a375e6-4e5c-43bb-b142-1f5d171a771b)# TimeOut
+# TimeOut
 
 <img width="6250" height="6250" alt="TIME OUT LOGO PNG" src="https://github.com/user-attachments/assets/ff14e9e0-df55-493f-8203-c791986b5a00" />
 
