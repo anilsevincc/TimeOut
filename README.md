@@ -22,6 +22,7 @@ Uygulama, kilitlenen uygulamalara erişimi bir dil öğrenme fırsatına dönü�
 
 | Soru Ekranı | Ana Menü | Dil Seçim Ekranı | Dakika Seçim Ekranı
 | :---: | :---: | :---: |
+|
 | ![TimeOutLockScreen](https://github.com/user-attachments/assets/c6e9a231-f387-4596-bae9-7db053b222d5)
 | ![TimeOutdDashboard](https://github.com/user-attachments/assets/858e1a24-fd43-4b03-937a-1b30fd048d48)
 | ![TimeOutLanguageChoose](https://github.com/user-attachments/assets/8320465c-6bfa-40f0-9ceb-5bd72b2870cc)
