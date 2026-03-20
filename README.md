@@ -22,10 +22,10 @@ Uygulama, kilitlenen uygulamalara erişimi bir dil öğrenme fırsatına dönü�
 
 | Soru Ekranı | Ana Menü | Dil Seçim Ekranı | Dakika Seçim Ekranı
 | :---: | :---: | :---: |
-| ![TimeOutLockScreen](https://github.com/user-attachments/assets/cda31677-115b-431f-93ac-77c991fffc94)
-| ![TimeOutdDashboard](https://github.com/user-attachments/assets/50bdf9c0-6d1f-4f77-b867-7758ada03098)
-| ![TimeOutLanguageChoose](https://github.com/user-attachments/assets/0eef0651-b124-4e0e-8baa-4ded13dc36e1)
-| ![TimeOutTimeİnterval](https://github.com/user-attachments/assets/3167ea1e-41a7-413d-ad27-519ba028af48)
+| ![TimeOutLockScreen](https://github.com/user-attachments/assets/c6e9a231-f387-4596-bae9-7db053b222d5)
+| ![TimeOutdDashboard](https://github.com/user-attachments/assets/858e1a24-fd43-4b03-937a-1b30fd048d48)
+| ![TimeOutLanguageChoose](https://github.com/user-attachments/assets/8320465c-6bfa-40f0-9ceb-5bd72b2870cc)
+| ![TimeOutTimeİnterval](https://github.com/user-attachments/assets/e9492a02-e2bb-46aa-a14e-3309f59a39b7)
 
 
 
