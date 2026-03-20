@@ -1,0 +1,74 @@
+{
+  "A1": [
+    { "ing": "Apple", "tr": "Elma" }, { "ing": "Water", "tr": "Su" }, { "ing": "Book", "tr": "Kitap" }, { "ing": "House", "tr": "Ev" }, { "ing": "Cat", "tr": "Kedi" },
+    { "ing": "Sun", "tr": "Güneş" }, { "ing": "Bread", "tr": "Ekmek" }, { "ing": "Door", "tr": "Kapı" }, { "ing": "Shoe", "tr": "Ayakkabı" }, { "ing": "Car", "tr": "Araba" },
+    { "ing": "Boy", "tr": "Erkek Çocuk" }, { "ing": "Girl", "tr": "Kız Çocuk" }, { "ing": "Man", "tr": "Adam" }, { "ing": "Woman", "tr": "Kadın" }, { "ing": "Tree", "tr": "Ağaç" },
+    { "ing": "Dog", "tr": "Köpek" }, { "ing": "Bird", "tr": "Kuş" }, { "ing": "Fish", "tr": "Balık" }, { "ing": "Milk", "tr": "Süt" }, { "ing": "Meat", "tr": "Et" },
+    { "ing": "Egg", "tr": "Yumurta" }, { "ing": "Cheese", "tr": "Peynir" }, { "ing": "Window", "tr": "Pencere" }, { "ing": "Table", "tr": "Masa" }, { "ing": "Chair", "tr": "Sandalye" },
+    { "ing": "Bed", "tr": "Yatak" }, { "ing": "Room", "tr": "Oda" }, { "ing": "Street", "tr": "Sokak" }, { "ing": "City", "tr": "Şehir" }, { "ing": "Country", "tr": "Ülke" },
+    { "ing": "Day", "tr": "Gün" }, { "ing": "Night", "tr": "Gece" }, { "ing": "Morning", "tr": "Sabah" }, { "ing": "Evening", "tr": "Akşam" }, { "ing": "Friend", "tr": "Arkadaş" },
+    { "ing": "Family", "tr": "Aile" }, { "ing": "Mother", "tr": "Anne" }, { "ing": "Father", "tr": "Baba" }, { "ing": "Brother", "tr": "Erkek Kardeş" }, { "ing": "Sister", "tr": "Kız Kardeş" },
+    { "ing": "School", "tr": "Okul" }, { "ing": "Teacher", "tr": "Öğretmen" }, { "ing": "Student", "tr": "Öğrenci" }, { "ing": "Pen", "tr": "Tükenmez Kalem" }, { "ing": "Pencil", "tr": "Kurşun Kalem" },
+    { "ing": "Bag", "tr": "Çanta" }, { "ing": "Money", "tr": "Para" }, { "ing": "Shop", "tr": "Dükkan" }, { "ing": "Hat", "tr": "Şapka" }, { "ing": "Coat", "tr": "Mont" }
+  ],
+  "A2": [
+    { "ing": "Bridge", "tr": "Köprü" }, { "ing": "Ticket", "tr": "Bilet" }, { "ing": "Mirror", "tr": "Ayna" }, { "ing": "Cloud", "tr": "Bulut" }, { "ing": "Forest", "tr": "Orman" },
+    { "ing": "Garden", "tr": "Bahçe" }, { "ing": "River", "tr": "Nehir" }, { "ing": "Village", "tr": "Köy" }, { "ing": "Smile", "tr": "Gülümseme" }, { "ing": "Pocket", "tr": "Cep" },
+    { "ing": "Airport", "tr": "Havalimanı" }, { "ing": "Station", "tr": "İstasyon" }, { "ing": "Journey", "tr": "Yolculuk" }, { "ing": "Mountain", "tr": "Dağ" }, { "ing": "Island", "tr": "Ada" },
+    { "ing": "Ocean", "tr": "Okyanus" }, { "ing": "Beach", "tr": "Plaj" }, { "ing": "Weather", "tr": "Hava Durumu" }, { "ing": "Rain", "tr": "Yağmur" }, { "ing": "Snow", "tr": "Kar" },
+    { "ing": "Wind", "tr": "Rüzgar" }, { "ing": "Star", "tr": "Yıldız" }, { "ing": "Earth", "tr": "Dünya" }, { "ing": "Fire", "tr": "Ateş" }, { "ing": "Ice", "tr": "Buz" },
+    { "ing": "Doctor", "tr": "Doktor" }, { "ing": "Nurse", "tr": "Hemşire" }, { "ing": "Hospital", "tr": "Hastane" }, { "ing": "Medicine", "tr": "İlaç" }, { "ing": "Pain", "tr": "Ağrı" },
+    { "ing": "Health", "tr": "Sağlık" }, { "ing": "Body", "tr": "Vücut" }, { "ing": "Head", "tr": "Baş" }, { "ing": "Hand", "tr": "El" }, { "ing": "Foot", "tr": "Ayak" },
+    { "ing": "Eye", "tr": "Göz" }, { "ing": "Ear", "tr": "Kulak" }, { "ing": "Mouth", "tr": "Ağız" }, { "ing": "Tooth", "tr": "Diş" }, { "ing": "Hair", "tr": "Saç" },
+    { "ing": "Heart", "tr": "Kalp" }, { "ing": "Blood", "tr": "Kan" }, { "ing": "Voice", "tr": "Ses (İnsan)" }, { "ing": "Sound", "tr": "Ses (Genel)" }, { "ing": "Picture", "tr": "Resim" },
+    { "ing": "Song", "tr": "Şarkı" }, { "ing": "Movie", "tr": "Film" }, { "ing": "Game", "tr": "Oyun" }, { "ing": "Team", "tr": "Takım" }, { "ing": "Match", "tr": "Maç" }
+  ],
+  "B1": [
+    { "ing": "Advice", "tr": "Tavsiye" }, { "ing": "Challenge", "tr": "Meydan Okuma" }, { "ing": "Decision", "tr": "Karar" }, { "ing": "Evidence", "tr": "Kanıt" }, { "ing": "Purpose", "tr": "Amaç" },
+    { "ing": "Skill", "tr": "Yetenek" }, { "ing": "Weapon", "tr": "Silah" }, { "ing": "Poverty", "tr": "Yoksulluk" }, { "ing": "Reward", "tr": "Ödül" }, { "ing": "Success", "tr": "Başarı" },
+    { "ing": "Failure", "tr": "Başarısızlık" }, { "ing": "Effort", "tr": "Çaba" }, { "ing": "Goal", "tr": "Hedef" }, { "ing": "Dream", "tr": "Rüya / Hayal" }, { "ing": "Memory", "tr": "Hafıza / Anı" },
+    { "ing": "Thought", "tr": "Düşünce" }, { "ing": "Feeling", "tr": "His" }, { "ing": "Fear", "tr": "Korku" }, { "ing": "Anger", "tr": "Öfke" }, { "ing": "Joy", "tr": "Sevinç" },
+    { "ing": "Sorrow", "tr": "Üzüntü" }, { "ing": "Hope", "tr": "Umut" }, { "ing": "Doubt", "tr": "Şüphe" }, { "ing": "Belief", "tr": "İnanç" }, { "ing": "Truth", "tr": "Gerçek" },
+    { "ing": "Lie", "tr": "Yalan" }, { "ing": "Secret", "tr": "Sır" }, { "ing": "Promise", "tr": "Söz" }, { "ing": "Mistake", "tr": "Hata" }, { "ing": "Accident", "tr": "Kaza" },
+    { "ing": "Chance", "tr": "Şans" }, { "ing": "Danger", "tr": "Tehlike" }, { "ing": "Safety", "tr": "Güvenlik" }, { "ing": "Law", "tr": "Kanun" }, { "ing": "Crime", "tr": "Suç" },
+    { "ing": "Justice", "tr": "Adalet" }, { "ing": "Peace", "tr": "Barış" }, { "ing": "War", "tr": "Savaş" }, { "ing": "Society", "tr": "Toplum" }, { "ing": "Culture", "tr": "Kültür" },
+    { "ing": "Custom", "tr": "Gelenek" }, { "ing": "Habit", "tr": "Alışkanlık" }, { "ing": "Behavior", "tr": "Davranış" }, { "ing": "Character", "tr": "Karakter" }, { "ing": "Personality", "tr": "Kişilik" },
+    { "ing": "Appearance", "tr": "Dış Görünüş" }, { "ing": "Shape", "tr": "Şekil" }, { "ing": "Size", "tr": "Boyut" }, { "ing": "Weight", "tr": "Ağırlık" }, { "ing": "Measure", "tr": "Ölçü" }
+  ],
+  "B2": [
+    { "ing": "Ambiguous", "tr": "Belirsiz" }, { "ing": "Crucial", "tr": "Kritik" }, { "ing": "Fascinate", "tr": "Büyülemek" }, { "ing": "Ignorant", "tr": "Cahil" }, { "ing": "Obsolete", "tr": "Modası Geçmiş" },
+    { "ing": "Resilient", "tr": "Dirençli" }, { "ing": "Vanish", "tr": "Ortadan Kaybolmak" }, { "ing": "Widespread", "tr": "Yaygın" }, { "ing": "Adequate", "tr": "Yeterli" }, { "ing": "Deceive", "tr": "Kandırmak" },
+    { "ing": "Accomplish", "tr": "Başarmak" }, { "ing": "Acquire", "tr": "Elde Etmek" }, { "ing": "Adapt", "tr": "Uyum Sağlamak" }, { "ing": "Anticipate", "tr": "Beklemek / Ummak" }, { "ing": "Appreciate", "tr": "Takdir Etmek" },
+    { "ing": "Assume", "tr": "Varsaymak" }, { "ing": "Banish", "tr": "Sürgün Etmek" }, { "ing": "Betray", "tr": "İhanet Etmek" }, { "ing": "Coincide", "tr": "Aynı Zamana Denk Gelmek" }, { "ing": "Compensate", "tr": "Telafi Etmek" },
+    { "ing": "Comprehend", "tr": "Kavramak" }, { "ing": "Conceal", "tr": "Gizlemek" }, { "ing": "Confess", "tr": "İtiraf Etmek" }, { "ing": "Contradict", "tr": "Çelişmek" }, { "ing": "Deter", "tr": "Caydırmak" },
+    { "ing": "Devastate", "tr": "Yıkmak / Mahvetmek" }, { "ing": "Emerge", "tr": "Ortaya Çıkmak" }, { "ing": "Emphasize", "tr": "Vurgulamak" }, { "ing": "Endure", "tr": "Dayanmak / Katlanmak" }, { "ing": "Enhance", "tr": "Geliştirmek / Artırmak" },
+    { "ing": "Evaluate", "tr": "Değerlendirmek" }, { "ing": "Exaggerate", "tr": "Abartmak" }, { "ing": "Exceed", "tr": "Aşmak / Geçmek" }, { "ing": "Expand", "tr": "Genişletmek" }, { "ing": "Exploit", "tr": "Sömürmek" },
+    { "ing": "Fluctuate", "tr": "Dalgalanmak" }, { "ing": "Generate", "tr": "Üretmek / Oluşturmak" }, { "ing": "Hesitate", "tr": "Tereddüt Etmek" }, { "ing": "Implement", "tr": "Uygulamak" }, { "ing": "Imply", "tr": "İma Etmek" },
+    { "ing": "Incorporate", "tr": "Dahil Etmek" }, { "ing": "Indicate", "tr": "Belirtmek / Göstermek" }, { "ing": "Inherit", "tr": "Miras Almak" }, { "ing": "Initiate", "tr": "Başlatmak" }, { "ing": "Inspire", "tr": "İlham Vermek" },
+    { "ing": "Integrate", "tr": "Bütünleştirmek" }, { "ing": "Interfere", "tr": "Müdahale Etmek" }, { "ing": "Interpret", "tr": "Yorumlamak" }, { "ing": "Investigate", "tr": "Soruşturmak" }, { "ing": "Justify", "tr": "Haklı Çıkarmak" }
+  ],
+  "C1": [
+    { "ing": "Eloquent", "tr": "Etkili Konuşan" }, { "ing": "Inevitable", "tr": "Kaçınılmaz" }, { "ing": "Lucrative", "tr": "Kazançlı" }, { "ing": "Notorious", "tr": "Adı Çıkmış" }, { "ing": "Plausible", "tr": "Mantıklı" },
+    { "ing": "Scrutinize", "tr": "İncelemek" }, { "ing": "Tedious", "tr": "Sıkıcı / Bıktırıcı" }, { "ing": "Vulnerable", "tr": "Savunmasız" }, { "ing": "Cynical", "tr": "Kuşkucu" }, { "ing": "Deteriorate", "tr": "Kötüleşmek" },
+    { "ing": "Alleviate", "tr": "Hafifletmek" }, { "ing": "Ameliorate", "tr": "İyileştirmek" }, { "ing": "Articulate", "tr": "Açıkça İfade Etmek" }, { "ing": "Ascertain", "tr": "Kesin Olarak Bilmek" }, { "ing": "Coerce", "tr": "Zorlamak" },
+    { "ing": "Concede", "tr": "Kabul Etmek / Taviz Vermek" }, { "ing": "Conciliate", "tr": "Gönlünü Almak" }, { "ing": "Consolidate", "tr": "Sağlamlaştırmak" }, { "ing": "Corroborate", "tr": "Doğrulamak" }, { "ing": "Culminate", "tr": "Zirveye Ulaşmak" },
+    { "ing": "Delineate", "tr": "Tasvir Etmek" }, { "ing": "Deplete", "tr": "Tüketmek" }, { "ing": "Derive", "tr": "Türetmek" }, { "ing": "Disseminate", "tr": "Yaymak" }, { "ing": "Elicit", "tr": "Açığa Çıkarmak" },
+    { "ing": "Emancipate", "tr": "Özgürleştirmek" }, { "ing": "Encompass", "tr": "Kapsamak" }, { "ing": "Eradicate", "tr": "Kökünü Kazımak" }, { "ing": "Exacerbate", "tr": "Kötüleştirmek" }, { "ing": "Exonerate", "tr": "Aklamak / Temize Çıkarmak" },
+    { "ing": "Extricate", "tr": "Kurtarmak" }, { "ing": "Fabricate", "tr": "Uydurmak" }, { "ing": "Facilitate", "tr": "Kolaylaştırmak" }, { "ing": "Flourish", "tr": "Gelişmek / Serpilmek" }, { "ing": "Foster", "tr": "Teşvik Etmek" },
+    { "ing": "Impair", "tr": "Bozmak / Zarar Vermek" }, { "ing": "Impede", "tr": "Engellemek" }, { "ing": "Instigate", "tr": "Kışkırtmak" }, { "ing": "Mitigate", "tr": "Yatıştırmak" }, { "ing": "Obliterate", "tr": "Yok Etmek" },
+    { "ing": "Perpetuate", "tr": "Sürdürmek" }, { "ing": "Proliferate", "tr": "Hızla Çoğalmak" }, { "ing": "Refute", "tr": "Çürütmek" }, { "ing": "Relinquish", "tr": "Vazgeçmek" }, { "ing": "Repudiate", "tr": "Reddetmek" },
+    { "ing": "Substantiate", "tr": "Kanıtlamak" }, { "ing": "Suppress", "tr": "Bastırmak" }, { "ing": "Undermine", "tr": "Baltalamak" }, { "ing": "Validate", "tr": "Onaylamak" }, { "ing": "Vindicate", "tr": "Haklı Çıkarmak" }
+  ],
+  "C2": [
+    { "ing": "Ephemeral", "tr": "Kısa Ömürlü" }, { "ing": "Ubiquitous", "tr": "Her Yerde Bulunan" }, { "ing": "Vicarious", "tr": "Başkası Yerine Yaşanan" }, { "ing": "Zealous", "tr": "Şevkli" }, { "ing": "Fastidious", "tr": "Titiz" },
+    { "ing": "Idiosyncrasy", "tr": "Kendine Özgülük" }, { "ing": "Mellifluous", "tr": "Tatlı Sesli" }, { "ing": "Quintessential", "tr": "Mükemmel Örnek" }, { "ing": "Sycophant", "tr": "Dalkavuk" }, { "ing": "Trenchant", "tr": "Keskin / Kırıcı" },
+    { "ing": "Abfuscate", "tr": "Kafasını Karıştırmak" }, { "ing": "Acrimonious", "tr": "Hırçın / İğneleyici" }, { "ing": "Alacrity", "tr": "Çeviklik / İsteklilik" }, { "ing": "Anomaly", "tr": "Anormallik" }, { "ing": "Antithesis", "tr": "Tam Karşıtı" },
+    { "ing": "Apathy", "tr": "Duyarsızlık" }, { "ing": "Assuage", "tr": "Yatıştırmak" }, { "ing": "Audacious", "tr": "Cüretkar" }, { "ing": "Banal", "tr": "Sıradan / Bayağı" }, { "ing": "Cacophony", "tr": "Kakofoni / Uyumsuz Ses" },
+    { "ing": "Capricious", "tr": "Kaprisli / Değişken" }, { "ing": "Castigate", "tr": "Azarlamak" }, { "ing": "Catalyst", "tr": "Katalizör" }, { "ing": "Caustic", "tr": "Aşındırıcı / İğneleyici" }, { "ing": "Chicanery", "tr": "Hilekarlık" },
+    { "ing": "Cognizant", "tr": "Farkında Olan" }, { "ing": "Conundrum", "tr": "Muamma / Çıkmaz" }, { "ing": "Copious", "tr": "Bol / Bereketli" }, { "ing": "Dearth", "tr": "Kıtlık" }, { "ing": "Debilitate", "tr": "Zayıflatmak" },
+    { "ing": "Decorum", "tr": "Adab-ı Muaşeret" }, { "ing": "Deference", "tr": "Hürmet / Saygı" }, { "ing": "Derision", "tr": "Alay" }, { "ing": "Desiccate", "tr": "Kurutmak" }, { "ing": "Despot", "tr": "Zalim Yönetici" },
+    { "ing": "Diatribe", "tr": "Sert Eleştiri" }, { "ing": "Didactic", "tr": "Öğretici" }, { "ing": "Diffident", "tr": "Çekingen" }, { "ing": "Digress", "tr": "Konudan Sapmak" }, { "ing": "Dilettante", "tr": "Amatör Sanatsever" },
+    { "ing": "Dirge", "tr": "Ağıt" }, { "ing": "Disabuse", "tr": "Gözünü Açmak / Yanılgıdan Kurtarmak" }, { "ing": "Discern", "tr": "Ayırt Etmek" }, { "ing": "Disparage", "tr": "Küçümsemek" }, { "ing": "Disparate", "tr": "Tamamen Farklı" },
+    { "ing": "Dissemble", "tr": "Duygularını Gizlemek" }, { "ing": "Dissonance", "tr": "Uyumsuzluk" }, { "ing": "Dogmatic", "tr": "Bağnaz" }, { "ing": "Ebullient", "tr": "Coşkulu" }, { "ing": "Eclectic", "tr": "Derleme / Seçmeci" }
+  ]
+}
